@@ -8,7 +8,7 @@ It is a part of my [Pasture Plan project](https://github.com/grgdhiraj/PasturePl
 Using Semantics tags have many benefits apart from efficiency and site performance in search engines. It help us not only to build better site structures, but more importantly, improve website's accessibility.
 
 ### Goal
-* Structure the code making it more readable and easier to maintain.
+* Using the HTML5 semantic tag.
 * Make the meanings of HTML elements better understandable for diverse audiences, _particularly those who live with disabilities_.
  
 
