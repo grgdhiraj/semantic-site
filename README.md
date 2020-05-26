@@ -1,5 +1,6 @@
 # Semantics
-_"Semantics is the study of language meaning, which is the words we use to communicate and for HTML is the mark up for documents._ ![](https://i.imgur.com/WFAP06Y.jpg)
+![](https://i.imgur.com/WFAP06Y.jpg)
+_"Semantics is the study of language meaning, which is the words we use to communicate and for HTML is the mark up for documents._ 
 
 ### What is this?
 It is a part of my [Pasture Plan project](https://github.com/grgdhiraj/PasturePlan), where as of plan I want to create a website with semantic HTML. 
